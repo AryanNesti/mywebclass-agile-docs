@@ -1,4 +1,7 @@
-"As a software development team, we want to implement a continuous integration and deployment (CI/CD) pipeline."
+"As a developer, I want to be able to push code changes to a version control system"
+"As a developer, I want the system to automatically build and test my code changes"
+"As a developer, I want the system to automatically deploy my code changes to the staging environment"
+"As a developer, I want the system to automatically deploy my code changes to the production environment once they pass all tests"
 
 Acceptance Criteria:
 

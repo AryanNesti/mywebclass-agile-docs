@@ -1,9 +1,8 @@
-"As an online retailer, we want to improve our website's search functionality to
-provide customers with more accurate and relevant search results."
-
 <!--
- You are missing the customer's or the stakeholder's actions on the initiative or the stories that help build out this initiative.
+ You are missing the customer's or the stakeholder's actions on the initiative or the stories that help build out this initiative. [Fixed]
 -->
+"As a customer, I want to see more accurate search results when I search for a product so that I can quickly find what I'm looking for."
+"As a customer, I want to see product suggestions based on my search query so that I can discover relevant products that I may not have considered."
 
 Acceptance Criteria:
 
