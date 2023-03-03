@@ -62,8 +62,14 @@ This is a broken link, the link does not lead to the epic that is specified.
 
 ## Test plan
 
-How will this be tested?
+- Unit testing: Develop and run automated unit tests for all code changes and configurations to ensure that they meet the required specifications.
+- Integration testing: Perform integration tests to ensure that all components of the DevOps pipeline are working together as expected. This can include testing the integration of the build server, version control system, test automation framework, and deployment tools.
+- Acceptance testing: Conduct acceptance tests to ensure that the website meets the desired business requirements and user expectations. This can include testing the website's functionality, performance, security, and usability.
+- Load testing: Test the website's ability to handle high traffic loads by simulating heavy user traffic and monitoring its performance and response time.
+- Security testing: Perform security testing to identify and mitigate potential vulnerabilities that could compromise the website's data or functionality.
+- User acceptance testing: Conduct user acceptance testing to ensure that the DevOps process has delivered the expected improvements and that the website is meeting the needs of its users.
+- Continuous monitoring: Implement continuous monitoring to track the performance and availability of the website and the DevOps pipeline, and to detect and resolve issues before they affect users.
 
 <!--
-Tests plans for this initiative is not complete.
+Tests plans for this initiative is not complete. [Fixed]
 -->
