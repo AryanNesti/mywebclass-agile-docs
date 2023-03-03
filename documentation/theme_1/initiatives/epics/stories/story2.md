@@ -1,4 +1,5 @@
-"As a social media platform, we want to implement a feature for users to schedule posts in advance."
+"As a user, I want to be able to schedule posts in advance so that I can post at optimal times without having to be online."
+"As a user, I want to be able to edit scheduled posts so that I can make changes before they are published."
 
 Acceptance Criteria:
 
