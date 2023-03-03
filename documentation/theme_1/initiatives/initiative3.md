@@ -65,8 +65,9 @@ Legal Professional - Responsible for ensuring compliance with relevant legal req
 SEO Specialist - Responsible for implementing on-page SEO requirements and optimizing website content.
 
 ## Epics
-* [Epic 1](../../templates/theme/initiatives/epics/epic_template.md)
-* Epic 2
+
+* [Improve Functionality and Relevancy](documentation/theme_1/initiatives/epics/epic1.md)
+
 ## Test plan
 
 - Verify that the Google Analytics tracking code is correctly implemented on all pages of the website.

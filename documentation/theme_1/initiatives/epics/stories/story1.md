@@ -17,6 +17,6 @@ related search suggestions to help customers find what they are looking for. The
 search functionality should work quickly and efficiently, without causing the
 website to slow down or crash.
 
-# List Stories related to this theme
+# List taskss related to this theme
 
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+* [Task 1](documentation/theme_1/initiatives/epics/stories/tasks/task1.md)

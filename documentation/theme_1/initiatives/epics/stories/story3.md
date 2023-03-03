@@ -10,5 +10,6 @@ The pipeline should notify team members of any build or deployment failures and 
 The pipeline should be documented and easy to understand for new team members who join the project.
 The pipeline should incorporate security and compliance measures, such as vulnerability scanning and code analysis, to ensure the deployed code is secure and meets industry standards.
 
-# List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+# List taskss related to this theme
+
+* [Task 3](documentation/theme_1/initiatives/epics/stories/tasks/task3.md)
