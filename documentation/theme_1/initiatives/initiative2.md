@@ -52,11 +52,11 @@ Specialist
 ## Epics
 
 <!--
-This is a broken link, the link does not lead to the epic that is specified.
+This is a broken link, the link does not lead to the epic that is specified. [Fixed]
 -->
 
-- [Epic 1](../../templates/theme/initiatives/epics/epic_template.md)
-- Epic 2
+* [Implementation of new Features](documentation/theme_1/initiatives/epics/epic2.md)
+
 
 ## Test plan
 

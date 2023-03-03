@@ -28,4 +28,5 @@ Business Value: The ability to schedule posts in advance will improve the user e
 Priority: High priority as scheduling posts in advance is a highly requested feature by users and can have significant benefits for both users and businesses on the platform.
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+
+* [Story 2](documentation/theme_1/initiatives/epics/stories/story2.md)

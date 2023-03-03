@@ -28,4 +28,5 @@ Business Value: Improved search functionality will lead to increased customer sa
 Priority: High priority as improving search functionality is a key aspect of our website's customer experience.
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+
+* [Story 1](documentation/theme_1/initiatives/epics/stories/story1.md)

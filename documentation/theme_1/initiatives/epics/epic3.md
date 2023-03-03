@@ -29,4 +29,5 @@ Business Value: Improved software development process and faster time to market
 Priority: High
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+
+* [Story 3](documentation/theme_1/initiatives/epics/stories/story1.md)

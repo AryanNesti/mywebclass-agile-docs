@@ -9,3 +9,7 @@ Users should be able to upload media, including images, videos, and GIFs, to acc
 Users should be able to edit or cancel their scheduled post before it is published.
 Users should receive a confirmation email or notification once their post has been published according to the scheduled date and time.
 The scheduling feature should comply with the social media platform's policies and guidelines, including restrictions on content and frequency of posting.
+
+# List taskss related to this theme
+
+* [Task 2](documentation/theme_1/initiatives/epics/stories/tasks/task2.md)

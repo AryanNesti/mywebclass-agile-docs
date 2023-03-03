@@ -54,11 +54,10 @@ DevOps Engineer Development Team Operations Team Project Manager
 ## Epics
 
 <!--
-This is a broken link, the link does not lead to the epic that is specified.
+This is a broken link, the link does not lead to the epic that is specified. [Fixed]
 -->
 
-- [Epic 1](../../templates/theme/initiatives/epics/epic_template.md)
-- Epic 2
+* [Integration and Deployment of a (CI/CD) pipeline](documentation/theme_1/initiatives/epics/epic3.md)
 
 ## Test plan
 
