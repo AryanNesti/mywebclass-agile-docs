@@ -29,4 +29,4 @@ Priority: High priority as improving search functionality is a key aspect of our
 
 # List stories related to this theme
 
-* [Story 1](documentation/theme_1/initiatives/epics/stories/story1.md)
+* [Story 1](stories/story1.md)

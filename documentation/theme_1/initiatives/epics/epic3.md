@@ -30,4 +30,4 @@ Priority: High
 
 # List stories related to this theme
 
-* [Story 3](documentation/theme_1/initiatives/epics/stories/story1.md)
+* [Story 3](stories/story1.md)

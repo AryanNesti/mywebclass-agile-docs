@@ -17,10 +17,10 @@ By prioritizing these initiatives and leveraging the power of lean and agile pri
 
 ## Initiative(s)
 
-- [Implement a DevOps process](documentation/theme_1/initiatives/initiative1.md)
+- [Implement a DevOps process](initiatives/initiative1.md)
   - to streamline the development,testing, and deployment of the new website
-- [Design, developand launch a new website for our organization.](documentation/theme_1/initiatives/initiative2.md)
-- [Ensure that our website satisfies the necessary technical and legal requirements for implementing Google Analytics and that we are appropriately listed in search engines by implementing basic on-page SEO requirements.](documentation/theme_1/initiatives/initiative3.md)
+- [Design, developand launch a new website for our organization.](initiatives/initiative2.md)
+- [Ensure that our website satisfies the necessary technical and legal requirements for implementing Google Analytics and that we are appropriately listed in search engines by implementing basic on-page SEO requirements.](initiatives/initiative3.md)
   - Implement Google Analytics tracking code on our website.
   - Optimize our website's content for search engines by implementing basic on-page SEO requirements.
 

@@ -57,7 +57,7 @@ DevOps Engineer Development Team Operations Team Project Manager
 This is a broken link, the link does not lead to the epic that is specified. [Fixed]
 -->
 
-* [Integration and Deployment of a (CI/CD) pipeline](documentation/theme_1/initiatives/epics/epic3.md)
+* [Integration and Deployment of a (CI/CD) pipeline](epics/epic3.md)
 
 ## Test plan
 

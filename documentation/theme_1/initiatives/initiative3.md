@@ -66,7 +66,7 @@ SEO Specialist - Responsible for implementing on-page SEO requirements and optim
 
 ## Epics
 
-* [Improve Functionality and Relevancy](documentation/theme_1/initiatives/epics/epic1.md)
+* [Improve Functionality and Relevancy](epics/epic1.md)
 
 ## Test plan
 

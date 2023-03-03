@@ -13,4 +13,4 @@ The scheduling feature should comply with the social media platform's policies a
 
 # List taskss related to this theme
 
-* [Task 2](documentation/theme_1/initiatives/epics/stories/tasks/task2.md)
+* [Task 2](tasks/task2.md)

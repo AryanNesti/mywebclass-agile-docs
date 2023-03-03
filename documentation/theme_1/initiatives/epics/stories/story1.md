@@ -18,4 +18,4 @@ website to slow down or crash.
 
 # List taskss related to this theme
 
-* [Task 1](documentation/theme_1/initiatives/epics/stories/tasks/task1.md)
+* [Task 1](tasks/task1.md)

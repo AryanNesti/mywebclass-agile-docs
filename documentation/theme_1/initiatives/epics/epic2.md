@@ -29,4 +29,4 @@ Priority: High priority as scheduling posts in advance is a highly requested fea
 
 # List stories related to this theme
 
-* [Story 2](documentation/theme_1/initiatives/epics/stories/story2.md)
+* [Story 2](stories/story2.md)

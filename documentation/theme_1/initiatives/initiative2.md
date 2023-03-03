@@ -55,7 +55,7 @@ Specialist
 This is a broken link, the link does not lead to the epic that is specified. [Fixed]
 -->
 
-* [Implementation of new Features](documentation/theme_1/initiatives/epics/epic2.md)
+* [Implementation of new Features](epics/epic2.md)
 
 
 ## Test plan

@@ -15,4 +15,4 @@ The pipeline should incorporate security and compliance measures, such as vulner
 
 # List taskss related to this theme
 
-* [Task 3](documentation/theme_1/initiatives/epics/stories/tasks/task3.md)
+* [Task 3](tasks/task3.md)
