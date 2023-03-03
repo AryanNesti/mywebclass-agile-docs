@@ -68,4 +68,10 @@ SEO Specialist - Responsible for implementing on-page SEO requirements and optim
 * [Epic 1](../../templates/theme/initiatives/epics/epic_template.md)
 * Epic 2
 ## Test plan
-How will this be tested?
+
+- Verify that the Google Analytics tracking code is correctly implemented on all pages of the website.
+- Verify that the website has a privacy policy and terms of service page that are up-to-date and comply with relevant legal requirements, such as GDPR or CCPA.
+- Verify that the website's metadata, such as title tags and meta descriptions, are optimized with relevant keywords and are within the recommended character limit.
+- Verify that the website's search engine rankings for relevant keywords are increasing over time.
+- Verify that the website's organic search traffic is increasing over time, with a focus on high-quality and relevant traffic.
+- Verify that the tracking code is capturing all relevant data points, such as page views, traffic sources, bounce rates, and user demographics.
